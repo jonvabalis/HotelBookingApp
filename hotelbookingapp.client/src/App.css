@@ -1,0 +1,11 @@
+﻿body {
+    background-image: url("https://cdn.pixabay.com/photo/2019/04/12/14/50/west-beach-4122318_1280.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: left top;
+    background-attachment: fixed;
+}
+
+.container-style {
+    margin-top: 7em;
+}
